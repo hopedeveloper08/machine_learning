@@ -8,4 +8,5 @@ This repository contains all my machine learning projects organized into individ
 
 # Regression
 
-- [Salary](https://github.com/hopedeveloper08/machine_learning/projects/regression/salary)
+- [Salary](https://github.com/hopedeveloper08/machine_learning/tree/master/projects/salary.ipynb)
+- [USA housing](https://github.com/hopedeveloper08/machine_learning/tree/master/projects/regression/usa_housing.ipynb)
